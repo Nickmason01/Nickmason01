@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Nickmason01/Nickmason01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full stack web developer from 📍 Columbus, OH
 
-Here are some ideas to get you started:
+About 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 : HTML, CSS, Javascript, React, MongoDB, Express, Node
+🏫 : The Ohio State University Full Stack Web Development Bootcamp Graduate
+🎲 : D&D and Magic the Gathering player 
+🏒 : Blue Jackets fan!
+
+
+Currently : 
+📋 : Creating and building upon projects 
+💼 : Looking to break into the industry  
+
